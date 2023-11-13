@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="655.0" prefWidth="924.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.UserPageController">
+   <children>
+      <ListView fx:id="listView" layoutX="68.0" layoutY="74.0" prefHeight="507.0" prefWidth="459.0" />
+      <ListView fx:id="farmList" layoutX="608.0" layoutY="179.0" prefHeight="200.0" prefWidth="200.0" />
+   </children>
+</AnchorPane>
